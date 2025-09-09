@@ -17,14 +17,28 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-    "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship",
-    "Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught",
-    "Stories Cheat", "X GF Reddit", "AskReddit Surviving Infidelity", "GurlCan Reddit",
-    "Cheating Story Actually Happened", "Cheating Story Real", "True Cheating Story",
-    "Reddit Cheating Story", "R/Surviving Infidelity", "Surviving Infidelity",
-    "Reddit Marriage", "Wife Cheated I Can't Forgive", "Reddit AP", "Exposed Wife",
-    "Cheat Exposed",
-
+"Cold Case Chronicles", "Unsolved Murder Mysteries", "True Crime Sleep Stories",
+"25 Cold Case to Sleep To", "25 Murder Case Shocking Plot", "Disturbing Crime Story",
+"True Crime Mystery", "Creepiest Unsolved Case", "Unsolved Crime Investigation",
+"Shocking Murder Case", "True Crime Explained", "Crime Story Narration",
+"Victim Story True Crime", "Unsolved Murder Case Timeline", "Human Evolution in 60 Seconds", "History Facts Actually Wrong",
+"Boring History Sleep", "History Explainer Animation", "Deadliest Weapons in History",
+"Deadliest Weapons Every Time Period", "Forgotten Civilizations",
+"Unknown History Facts", "History Short Facts", "History Sleep Story","Disturbing Mythical Creatures", "Scary Legendary Monsters",
+"Mythical Beasts Never Heard", "Dark Mythology Stories",
+"Ancient Horror Creatures", "Creepy Folklore Legends",
+"Mythical Creatures Explained", "Dark Mythology Creatures",
+"Unknown Folklore Stories", "Sketch Animated Explainer History", "Animated History Explainer",
+"Whiteboard Animation History", "History Animation Short",
+"Explainer Animation Storytelling", "60 Second History Animation",
+"History Visual Storytelling", "Animated History Facts", "Automotive History Explained", "Heavy Vehicles Documentary",
+"Military Heavy Vehicles", "Evolution of Heavy Machinery",
+"Biggest Heavy Vehicles", "Truck Evolution History",
+"Heavy Duty Vehicle Explained", "Powerful Vehicles in History", "Boring History Sleep", "Cold Case Stories Sleep",
+"True Crime Sleep Story", "Relaxing History Narration",
+"Bedtime Cold Case", "Murder Case Sleep Story",
+"History to Help Sleep", "Mystery Story Sleep",
+"Relaxing Crime Story" 
     # Extra keywords you gave later
     "Human evolution in under 60s", "history facts that are actually completely wrong",
     "disturbing mythical creatures you're never heard of", "the deadliest weapons of every time period",
